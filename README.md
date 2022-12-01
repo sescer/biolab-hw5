@@ -71,4 +71,4 @@ Jmol is easy to use open-source Java viewer for chemical structures in 3D. The G
 And also I find functionality of spinning (it's awesome)
 
 -GIF:
-![](images/7m7i.pdf.gif)
+![](images/7m7i.pdb.gif)

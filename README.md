@@ -60,7 +60,7 @@ Jmol is easy to use open-source Java viewer for chemical structures in 3D. The G
 - command: `color chain` 
 
 - screenshot:
-![](images/chains .jpg)
+![](images/chains.jpg)
 
 
 ### Publication quality
